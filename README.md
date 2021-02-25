@@ -1,6 +1,15 @@
 # qiot-camel-kafka
 Sample project that consumes from and publishes to a Kafka topic using Camel
 
+### dependency
+```xml
+<dependency>
+    <groupId>org.apache.camel.quarkus</groupId>
+    <artifactId>camel-quarkus-kafka</artifactId>
+</dependency>
+```
+
+### sample
 1. Setting consumer topic
 > from("kafka:" + topicName)
 2. Setting producer topic
