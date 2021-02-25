@@ -1,4 +1,4 @@
-package org.alizardo.rest;
+package org.alizardo.camel;
 
 import org.apache.camel.LoggingLevel;
 import org.apache.camel.builder.RouteBuilder;

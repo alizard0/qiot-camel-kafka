@@ -1,4 +1,4 @@
-package org.alizardo.rest;
+package org.alizardo.camel;
 
 public class KafkaMessage {
 }
